@@ -15,11 +15,6 @@ st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600;700&display=swap');
 
-html, body, [class*="css"] {
-    font-family: 'DM Sans', sans-serif !important;
-    background-color: #ffffff !important;
-    color: #111111 !important;
-}
 
 .main .block-container {
     background: #ffffff !important;
